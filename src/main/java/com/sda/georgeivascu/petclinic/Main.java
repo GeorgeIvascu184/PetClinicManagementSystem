@@ -1,4 +1,5 @@
-package com.sda.georgeivascu.petclinic;
+package com.sda.georgeivascu.PetClinic;
 
 public class Main {
+
 }

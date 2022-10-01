@@ -7,6 +7,7 @@ import java.util.List;
 public class Vet {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private Integer id;
     @Column(name = "first_name")
     private String firstName;
